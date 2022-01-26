@@ -23,7 +23,11 @@ What to do:
 
 Settings:
 Defaults = [ ✅Download Audio,  ✅Gain Audio ]
+
 Download Audio: Downloads audio from youtube, disables extract to prevent override
+
 Download Video: Downloads video from youtube, check extract audio to get audio as well
+
 Gain Audio: Performs gain on audio files in audio folder
-"Extract Audio: Extracts audio from video files from video folder to audio folder
+
+Extract Audio: Extracts audio from video files from video folder to audio folder
