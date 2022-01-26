@@ -11,6 +11,12 @@ VIDEO = "videos"
 AUDIO = "audios"
 ALARM = "programs\\alarm.opus"
 
+# Check if directories exist
+if not os.path.exists(VIDEO):
+    os.mkdir(VIDEO)
+if not os.path.exists(AUDIO):
+    os.mkdir(AUDIO)
+
 # Settings Dict
 settings = {}
 
