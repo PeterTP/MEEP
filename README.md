@@ -1,8 +1,6 @@
-===================================================
-Music Extraction and Equalization Program (MEEP) ||
-===================================================
-Made by PeterTP |
+Music Extraction and Equalization Program (MEEP)
 -----------------
+Made by PeterTP
 
 MEEP is a batch music (and video) downloading program that is lossless as it does not utilise any codec conversion
 Youtube-dl is abandoned and so the much better yt-dlp fork is used
